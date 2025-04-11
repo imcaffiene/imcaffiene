@@ -15,7 +15,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 ```javascript
-const bittu = {
+const sumit = {
     pronouns: "He" | "Him",
     bio: "Passionate developer dedicated to crafting elegant solutions",
     currentProject: "DevScripter - A Developer's Companion",
