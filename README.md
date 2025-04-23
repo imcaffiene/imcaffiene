@@ -12,29 +12,6 @@
   <img src="https://raw.githubusercontent.com/imcaffiene/imcaffiene/main/programmer.gif" width="60%" style="box-shadow: 0 0 25px rgba(0,0,0,0.3);" />
 </div>
 
-<h2 align="center">🚀 About Me</h2>
-
-```javascript
-const sumit = {
-    pronouns: "He" | "Him",
-    bio: "Passionate developer dedicated to crafting elegant solutions",
-    currentProject: "DevScripter - A Developer's Companion",
-    learning: ["Web3", "Cloud Architecture", "System Design"],
-    challenge: "Mastering one new technology every month",
-    funFact: "I can debug code faster than my coffee gets cold ☕💻",
-    reachMe: "imcaffiene@gmail.com"
-};
-
-const skills = {
-    languages: ["JavaScript", "TypeScript", "Java"],
-    frontend: ["React", "Next.js", "Redux", "TailwindCSS"],
-    backend: ["Node.js", "Express", "Spring Boot"],
-    databases: ["MongoDB", "PostgreSQL", "MySQL"],
-    devops: ["AWS", "Docker", "Kubernetes", "Jenkins"],
-    architecture: ["Microservices", "REST APIs", "GraphQL"]
-};
-```
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -42,28 +19,8 @@ const skills = {
 <h2 align="center">⚡ Technology Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,java,spring,mongodb,postgresql,mysql,aws,docker,kubernetes,git,linux,redux,tailwind,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,nodejs,express,mongodb,postgresql,aws,docker,kubernetes,redux,tailwind,&perline=8" />
 </div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imcaffiene&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=imcaffiene&theme=tokyonight" />
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imcaffiene&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=imcaffiene&theme=tokyonight" />
-<img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=imcaffiene&theme=tokyonight" />
-</p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -87,15 +44,10 @@ const skills = {
   </a>
 </div>
 
-<div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=imcaffiene&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
-</div>
-
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imcaffiene&custom_title=Bittu's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=2e97a7&line=628fdb&point=2e97a7&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imcaffiene&custom_title=Suimt's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=2e97a7&line=628fdb&point=2e97a7&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 <div align="center">
