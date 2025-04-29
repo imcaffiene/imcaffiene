@@ -1,8 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A2647&height=190&section=header&text=Welcome%20To%20My%20Profile&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20DevOps%20Enthusiast%20|%20Problem%20Solver&descAlignY=55"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2E97A7&center=true&vCenter=true&random=false&width=580&lines=Hi+there%2C+I'm+Sumit+Kumar+%F0%9F%91%8B;Passionate+Full+Stack+Developer+from+India;1%2B+Years+of+Coding+Experience;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
